@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Bruno Borges</h1>
 
 <p align="center">
-  <b>Desenvolvedor Fullstack em evolução</b>
+  <b>Desenvolvedor Fullstack</b>
 </p>
 
 <p align="center">
