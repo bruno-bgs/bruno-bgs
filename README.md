@@ -87,15 +87,6 @@ Atualmente estou focado em evoluir minhas habilidades com **Python, Django, Java
 
 ---
 
-## 🐍 Snake de contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bruno-bgs/bruno-bgs/output/snake.svg" />
-
-</div>
-
----
 
 ## 📬 Contato
 
