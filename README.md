@@ -6,7 +6,7 @@
 
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-  💻 Python • React • JavaScript • Django • PHP • Laravel
+  💻 Python • React • JavaScript • Node.js • PHP • Laravel
 </p>
 
 <p align="center">
